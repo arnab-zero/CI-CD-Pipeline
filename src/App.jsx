@@ -26,6 +26,11 @@ function App() {
             Reset
           </button>
         </div>
+        <div className="text-base font-extralight my-10">
+          Deployed on{" "}
+          <span className="font-light text-slate-400 underline">Vercel</span>{" "}
+          Successfully
+        </div>
       </div>
     </>
   );
