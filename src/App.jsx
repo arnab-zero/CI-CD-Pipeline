@@ -31,6 +31,7 @@ function App() {
           <span className="font-light text-slate-400 underline">Vercel</span>{" "}
           Successfully
         </div>
+        <div className="text-slate-500 font-extralight">Made Some Changes</div>
       </div>
     </>
   );
